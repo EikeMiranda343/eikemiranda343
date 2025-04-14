@@ -35,9 +35,9 @@
 
 <div>
 <a href="https://github.com/EikeMiranda343">
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api?username=EikeMiranda343&show_icons=true"/>
-<img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EikeMiranda343&layout=compact"/>
-<img loading="lazy" height="140em" src="https://streak-stats.demolab.com/?user=EikeMiranda343"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=EikeMiranda343&show_icons=true"/>
+<img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EikeMiranda343&layout=compact"/>
+<img loading="lazy" height="100em" src="https://streak-stats.demolab.com/?user=EikeMiranda343"/>
 <div>
 
 
