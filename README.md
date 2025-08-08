@@ -11,7 +11,7 @@
 
 <h4 align="left">🛠 Language and tools</h4>
 
-<div align='left'>
+<! div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=40 alt="html logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height=40 alt="css logo"/>
