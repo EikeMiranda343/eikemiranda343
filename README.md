@@ -9,7 +9,7 @@
 - Proactive
 - Strong-willed
 
-<h4 align="left">🛠 Language and tools</h4>
+<!--h4 align="left">🛠 Language and tools</h4-->
 
 <!-- div align='left'>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height=40 alt="html logo"/>
