@@ -26,9 +26,9 @@
 <h4 align="left">🔭 Learning</h4>
 
 <div align='left'>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height=40 alt="python logo"/>
+  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" height=40 alt="java logo"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height=40 alt="django logo"/>         
+  <<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height=40 alt="spring logo"/>         
 </div>
 
 <h4 align="left">🎓 Github Stats</h4>
