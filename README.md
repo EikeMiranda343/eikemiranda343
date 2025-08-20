@@ -31,12 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height=40 alt="spring logo"/>         
 </div>
 
-<h4 align="left">🎓 Github Stats</h4>
-
-<div align='center'>
-  <a href="https://github.com/EikeMiranda343">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=EikeMiranda343&show_icons=true"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EikeMiranda343&layout=compact"/>
-<div>
-
 
